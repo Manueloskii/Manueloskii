@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Manueloskii
+- 👀 I’m interested in learning each day
+- 🌱 I’m currently learning about the CS50 course
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me @manuel_olivass
